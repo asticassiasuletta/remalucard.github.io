@@ -14,7 +14,7 @@ plugins:
 # color scheme
 color_scheme: catppuccin
 
-remote_theme: just-the-docs/just-the-docs
+remote_theme: just-the-docs/just-the-docs@v0.10.1
 
 # search function
 search_enabled: true
